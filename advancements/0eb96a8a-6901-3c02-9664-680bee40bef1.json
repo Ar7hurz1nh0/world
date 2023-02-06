@@ -1,0 +1,208 @@
+{
+  "blazeandcave:challenges/explorer_of_worlds": {
+    "criteria": {
+      "plains": "2022-09-04 14:40:06 -0300"
+    },
+    "done": false
+  },
+  "incendium:technical/on_block": {
+    "criteria": {
+      "log_spam_fixer": "2022-09-04 14:43:36 -0300"
+    },
+    "done": false
+  },
+  "incendium:technical/on_kill": {
+    "criteria": {
+      "log_spam_fixer": "2022-09-04 14:43:36 -0300"
+    },
+    "done": false
+  },
+  "blazeandcave:bacap/advancement_legend": {
+    "criteria": {
+      "bacap_root": "2022-09-04 14:40:07 -0300"
+    },
+    "done": false
+  },
+  "incendium:technical/using/trailblazer": {
+    "criteria": {
+      "log_spam_fixer": "2022-09-04 14:40:06 -0300"
+    },
+    "done": false
+  },
+  "incendium:technical/on_player_hurt": {
+    "criteria": {
+      "log_spam_fixer": "2022-09-04 14:43:36 -0300"
+    },
+    "done": false
+  },
+  "vanillatweaks:cauldron_concrete": {
+    "criteria": {
+      "tick": "2022-09-04 14:39:44 -0300"
+    },
+    "done": true
+  },
+  "vanillatweaks:graves": {
+    "criteria": {
+      "tick": "2022-09-04 14:39:44 -0300"
+    },
+    "done": true
+  },
+  "vanillatweaks:double_shulker_shells": {
+    "criteria": {
+      "tick": "2022-09-04 14:39:44 -0300"
+    },
+    "done": true
+  },
+  "incendium:technical/scroll_of_returning": {
+    "criteria": {
+      "log_spam_fixer": "2022-09-04 14:40:06 -0300"
+    },
+    "done": false
+  },
+  "incendium:technical/multiplex_crossbow": {
+    "criteria": {
+      "log_spam_fixer": "2022-09-04 14:43:36 -0300"
+    },
+    "done": false
+  },
+  "incendium:technical/sentrys_wrath": {
+    "criteria": {
+      "log_spam_fixer": "2022-09-04 14:43:36 -0300"
+    },
+    "done": false
+  },
+  "blazeandcave:bacap/root": {
+    "criteria": {
+      "location": "2022-09-04 14:40:06 -0300"
+    },
+    "done": true
+  },
+  "vanillatweaks:player_head_drops": {
+    "criteria": {
+      "tick": "2022-09-04 14:39:44 -0300"
+    },
+    "done": true
+  },
+  "incendium:technical/firestorm": {
+    "criteria": {
+      "log_spam_fixer": "2022-09-04 14:43:36 -0300"
+    },
+    "done": false
+  },
+  "vanillatweaks:chunk_loaders": {
+    "criteria": {
+      "tick": "2022-09-04 14:39:44 -0300"
+    },
+    "done": true
+  },
+  "blazeandcave:biomes/one_with_the_forest": {
+    "criteria": {
+      "plains": "2022-09-04 14:40:06 -0300"
+    },
+    "done": false
+  },
+  "minecraft:adventure/adventuring_time": {
+    "criteria": {
+      "mushroom_fields": "2022-09-04 14:40:06 -0300",
+      "warm_ocean": "2022-09-04 14:40:06 -0300",
+      "dark_forest": "2022-09-04 14:40:06 -0300",
+      "plains": "2022-09-04 14:40:06 -0300",
+      "meadow": "2022-09-04 14:40:06 -0300",
+      "taiga": "2022-09-04 14:40:06 -0300",
+      "snowy_taiga": "2022-09-04 14:40:06 -0300",
+      "desert": "2022-09-04 14:40:06 -0300"
+    },
+    "done": false
+  },
+  "vanillatweaks:track_stats": {
+    "criteria": {
+      "tick": "2022-09-04 14:39:44 -0300"
+    },
+    "done": true
+  },
+  "incendium:technical/using/ragnarok": {
+    "criteria": {
+      "log_spam_fixer": "2022-09-04 14:40:06 -0300"
+    },
+    "done": false
+  },
+  "vanillatweaks:root": {
+    "criteria": {
+      "tick": "2022-09-04 14:39:44 -0300"
+    },
+    "done": true
+  },
+  "incendium:technical/feed_ghastling": {
+    "criteria": {
+      "log_spam_fixer": "2022-09-04 14:43:36 -0300"
+    },
+    "done": false
+  },
+  "incendium:technical/inventory/sentrys_wrath": {
+    "criteria": {
+      "log_spam_fixer": "2022-09-04 14:43:36 -0300"
+    },
+    "done": false
+  },
+  "vanillatweaks:armored_elytra": {
+    "criteria": {
+      "tick": "2022-09-04 14:39:44 -0300"
+    },
+    "done": true
+  },
+  "incendium:technical/new_player": {
+    "criteria": {
+      "requirement": "2022-09-04 14:39:44 -0300"
+    },
+    "done": true
+  },
+  "blazeandcave:potion/a_much_more_doable_challenge": {
+    "criteria": {
+      "haste": "2022-09-04 14:39:46 -0300"
+    },
+    "done": false
+  },
+  "vanillatweaks:name_colors": {
+    "criteria": {
+      "tick": "2022-09-04 14:39:44 -0300"
+    },
+    "done": true
+  },
+  "incendium:technical/holy_wrath": {
+    "criteria": {
+      "log_spam_fixer": "2022-09-04 14:43:36 -0300"
+    },
+    "done": false
+  },
+  "incendium:technical/inventory/firestorm": {
+    "criteria": {
+      "log_spam_fixer": "2022-09-04 14:43:36 -0300"
+    },
+    "done": false
+  },
+  "vanillatweaks:track_raw_stats": {
+    "criteria": {
+      "tick": "2022-09-04 14:39:44 -0300"
+    },
+    "done": true
+  },
+  "incendium:technical/using/shield": {
+    "criteria": {
+      "log_spam_fixer": "2022-09-04 14:40:06 -0300"
+    },
+    "done": false
+  },
+  "incendium:technical/on_inventory_change": {
+    "criteria": {
+      "log_spam_fixer": "2022-09-04 14:43:36 -0300"
+    },
+    "done": false
+  },
+  "repurposed_structures:root": {
+    "criteria": {
+      "always": "2022-09-04 14:39:44 -0300"
+    },
+    "done": true
+  },
+  "DataVersion": 3105
+}
