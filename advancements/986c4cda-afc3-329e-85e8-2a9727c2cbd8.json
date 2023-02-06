@@ -1,0 +1,81 @@
+{
+  "vanillatweaks:track_stats": {
+    "criteria": {
+      "tick": "2022-09-11 21:38:42 -0300"
+    },
+    "done": true
+  },
+  "vanillatweaks:root": {
+    "criteria": {
+      "tick": "2022-09-11 21:38:42 -0300"
+    },
+    "done": true
+  },
+  "vanillatweaks:cauldron_concrete": {
+    "criteria": {
+      "tick": "2022-09-11 21:38:42 -0300"
+    },
+    "done": true
+  },
+  "vanillatweaks:graves": {
+    "criteria": {
+      "tick": "2022-09-11 21:38:42 -0300"
+    },
+    "done": true
+  },
+  "vanillatweaks:armored_elytra": {
+    "criteria": {
+      "tick": "2022-09-11 21:38:42 -0300"
+    },
+    "done": true
+  },
+  "vanillatweaks:double_shulker_shells": {
+    "criteria": {
+      "tick": "2022-09-11 21:38:42 -0300"
+    },
+    "done": true
+  },
+  "incendium:technical/new_player": {
+    "criteria": {
+      "requirement": "2022-09-11 21:38:42 -0300"
+    },
+    "done": true
+  },
+  "blazeandcave:potion/a_much_more_doable_challenge": {
+    "criteria": {
+      "haste": "2022-09-11 21:38:44 -0300"
+    },
+    "done": false
+  },
+  "vanillatweaks:name_colors": {
+    "criteria": {
+      "tick": "2022-09-11 21:38:42 -0300"
+    },
+    "done": true
+  },
+  "vanillatweaks:player_head_drops": {
+    "criteria": {
+      "tick": "2022-09-11 21:38:42 -0300"
+    },
+    "done": true
+  },
+  "vanillatweaks:chunk_loaders": {
+    "criteria": {
+      "tick": "2022-09-11 21:38:42 -0300"
+    },
+    "done": true
+  },
+  "vanillatweaks:track_raw_stats": {
+    "criteria": {
+      "tick": "2022-09-11 21:38:42 -0300"
+    },
+    "done": true
+  },
+  "repurposed_structures:root": {
+    "criteria": {
+      "always": "2022-09-11 21:38:42 -0300"
+    },
+    "done": true
+  },
+  "DataVersion": 3105
+}
