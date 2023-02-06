@@ -1,0 +1,63 @@
+{
+  "blazeandcave:challenges/explorer_of_worlds": {
+    "criteria": {
+      "river": "2022-03-09 21:00:26 -0300"
+    },
+    "done": false
+  },
+  "vanillatweaks:track_stats": {
+    "criteria": {
+      "tick": "2022-03-09 21:00:26 -0300"
+    },
+    "done": true
+  },
+  "blazeandcave:bacap/root": {
+    "criteria": {
+      "location": "2022-03-09 21:00:26 -0300"
+    },
+    "done": true
+  },
+  "vanillatweaks:root": {
+    "criteria": {
+      "tick": "2022-03-09 21:00:26 -0300"
+    },
+    "done": true
+  },
+  "blazeandcave:bacap/advancement_legend": {
+    "criteria": {
+      "bacap_root": "2022-03-09 21:00:26 -0300"
+    },
+    "done": false
+  },
+  "blazeandcave:biomes/wet_feet": {
+    "criteria": {
+      "river": "2022-03-09 21:00:26 -0300"
+    },
+    "done": false
+  },
+  "vanillatweaks:track_raw_stats": {
+    "criteria": {
+      "tick": "2022-03-09 21:00:26 -0300"
+    },
+    "done": true
+  },
+  "repurposed_structures:root": {
+    "criteria": {
+      "always": "2022-03-09 21:00:26 -0300"
+    },
+    "done": true
+  },
+  "vanillatweaks:afk_display": {
+    "criteria": {
+      "tick": "2022-03-09 21:00:26 -0300"
+    },
+    "done": true
+  },
+  "minecraft:adventure/adventuring_time": {
+    "criteria": {
+      "river": "2022-03-09 21:00:26 -0300"
+    },
+    "done": false
+  },
+  "DataVersion": 2865
+}
