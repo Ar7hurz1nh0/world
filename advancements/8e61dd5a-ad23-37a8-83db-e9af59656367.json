@@ -1,0 +1,187 @@
+{
+  "blazeandcave:challenges/explorer_of_worlds": {
+    "criteria": {
+      "plains": "2022-04-29 08:02:06 -0300",
+      "river": "2022-04-29 08:05:10 -0300"
+    },
+    "done": false
+  },
+  "blazeandcave:technical/fail_dragon_vs": {
+    "criteria": {
+      "enter_water": "2022-04-29 08:05:24 -0300"
+    },
+    "done": true
+  },
+  "blazeandcave:bacap/advancement_legend": {
+    "criteria": {
+      "click": "2022-04-29 08:06:05 -0300",
+      "statistics_root": "2022-04-29 08:07:43 -0300",
+      "the_first_night": "2022-04-29 08:07:43 -0300",
+      "just_keep_swimming": "2022-04-29 08:05:25 -0300",
+      "sweet_dreams": "2022-04-29 08:07:31 -0300",
+      "bacap_root": "2022-04-29 08:02:07 -0300"
+    },
+    "done": false
+  },
+  "minecraft:recipes/transportation/dark_oak_boat": {
+    "criteria": {
+      "in_water": "2022-04-29 08:05:24 -0300"
+    },
+    "done": true
+  },
+  "blazeandcave:bacap/biomes_milestone": {
+    "criteria": {
+      "just_keep_swimming": "2022-04-29 08:05:25 -0300"
+    },
+    "done": false
+  },
+  "blazeandcave:bacap/redstone_milestone": {
+    "criteria": {
+      "click": "2022-04-29 08:06:05 -0300"
+    },
+    "done": false
+  },
+  "blazeandcave:challenges/all_the_blocks": {
+    "criteria": {
+      "dirt": "2022-04-29 08:06:35 -0300"
+    },
+    "done": false
+  },
+  "blazeandcave:redstone/click": {
+    "criteria": {
+      "oak_button": "2022-04-29 08:06:04 -0300"
+    },
+    "done": true
+  },
+  "blazeandcave:bacap/root": {
+    "criteria": {
+      "location": "2022-04-29 08:02:06 -0300"
+    },
+    "done": true
+  },
+  "blazeandcave:bacap/building_milestone": {
+    "criteria": {
+      "sweet_dreams": "2022-04-29 08:07:31 -0300"
+    },
+    "done": false
+  },
+  "blazeandcave:biomes/wet_feet": {
+    "criteria": {
+      "river": "2022-04-29 08:05:10 -0300"
+    },
+    "done": false
+  },
+  "blazeandcave:statistics/root": {
+    "criteria": {
+      "entered_nether_portal": "2022-04-29 08:07:42 -0300",
+      "diamond": "2022-04-29 08:07:42 -0300",
+      "entered_end_portal": "2022-04-29 08:07:42 -0300"
+    },
+    "done": true
+  },
+  "blazeandcave:biomes/one_with_the_forest": {
+    "criteria": {
+      "plains": "2022-04-29 08:02:06 -0300"
+    },
+    "done": false
+  },
+  "minecraft:adventure/adventuring_time": {
+    "criteria": {
+      "plains": "2022-04-29 08:02:06 -0300",
+      "river": "2022-04-29 08:05:10 -0300"
+    },
+    "done": false
+  },
+  "vanillatweaks:track_stats": {
+    "criteria": {
+      "tick": "2022-04-29 07:58:43 -0300"
+    },
+    "done": true
+  },
+  "minecraft:adventure/sleep_in_bed": {
+    "criteria": {
+      "slept_in_bed": "2022-04-29 08:07:30 -0300"
+    },
+    "done": true
+  },
+  "vanillatweaks:root": {
+    "criteria": {
+      "tick": "2022-04-29 07:58:43 -0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/birch_boat": {
+    "criteria": {
+      "in_water": "2022-04-29 08:05:24 -0300"
+    },
+    "done": true
+  },
+  "vanillatweaks:afk_display": {
+    "criteria": {
+      "tick": "2022-04-29 07:58:43 -0300"
+    },
+    "done": true
+  },
+  "blazeandcave:potion/a_much_more_doable_challenge": {
+    "criteria": {
+      "haste": "2022-04-29 07:58:44 -0300"
+    },
+    "done": false
+  },
+  "blazeandcave:bacap/statistics_milestone": {
+    "criteria": {
+      "the_first_night": "2022-04-29 08:07:43 -0300",
+      "root": "2022-04-29 08:07:43 -0300"
+    },
+    "done": false
+  },
+  "minecraft:recipes/transportation/acacia_boat": {
+    "criteria": {
+      "in_water": "2022-04-29 08:05:24 -0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/oak_boat": {
+    "criteria": {
+      "in_water": "2022-04-29 08:05:24 -0300"
+    },
+    "done": true
+  },
+  "blazeandcave:statistics/the_first_night": {
+    "criteria": {
+      "trigger": "2022-04-29 08:07:42 -0300"
+    },
+    "done": true
+  },
+  "vanillatweaks:track_raw_stats": {
+    "criteria": {
+      "tick": "2022-04-29 07:58:43 -0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/jungle_boat": {
+    "criteria": {
+      "in_water": "2022-04-29 08:05:24 -0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/spruce_boat": {
+    "criteria": {
+      "in_water": "2022-04-29 08:05:24 -0300"
+    },
+    "done": true
+  },
+  "repurposed_structures:root": {
+    "criteria": {
+      "always": "2022-04-29 07:58:43 -0300"
+    },
+    "done": true
+  },
+  "blazeandcave:biomes/just_keep_swimming": {
+    "criteria": {
+      "enter_water": "2022-04-29 08:05:24 -0300"
+    },
+    "done": true
+  },
+  "DataVersion": 2975
+}
