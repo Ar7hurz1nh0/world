@@ -1,0 +1,40 @@
+{
+  "vanillatweaks:track_stats": {
+    "criteria": {
+      "tick": "2022-04-02 16:19:12 -0300"
+    },
+    "done": true
+  },
+  "vanillatweaks:root": {
+    "criteria": {
+      "tick": "2022-04-02 16:19:12 -0300"
+    },
+    "done": true
+  },
+  "vanillatweaks:track_raw_stats": {
+    "criteria": {
+      "tick": "2022-04-02 16:19:12 -0300"
+    },
+    "done": true
+  },
+  "repurposed_structures:root": {
+    "criteria": {
+      "always": "2022-04-02 16:19:12 -0300"
+    },
+    "done": true
+  },
+  "vanillatweaks:afk_display": {
+    "criteria": {
+      "tick": "2022-04-02 16:19:12 -0300"
+    },
+    "done": true
+  },
+  "blazeandcave:potion/a_much_more_doable_challenge": {
+    "criteria": {
+      "regeneration": "2022-04-02 16:19:15 -0300",
+      "resistance": "2022-04-02 16:19:15 -0300"
+    },
+    "done": false
+  },
+  "DataVersion": 2865
+}
