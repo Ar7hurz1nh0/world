@@ -1,0 +1,379 @@
+{
+  "blazeandcave:challenges/explorer_of_worlds": {
+    "criteria": {
+      "dripstone_caves": "2022-07-14 02:46:57 -0300",
+      "jungle": "2022-07-14 02:46:17 -0300",
+      "forest": "2022-07-14 02:30:22 -0300",
+      "sparse_jungle": "2022-07-14 02:51:45 -0300",
+      "birch_forest": "2022-07-14 02:46:12 -0300",
+      "plains": "2022-07-14 02:28:37 -0300",
+      "old_growth_birch_forest": "2022-07-14 02:45:51 -0300",
+      "river": "2022-07-14 02:33:22 -0300"
+    },
+    "done": false
+  },
+  "blazeandcave:challenges/ultimate_enchanter": {
+    "criteria": {
+      "unbreaking1": "2022-07-14 02:29:50 -0300"
+    },
+    "done": false
+  },
+  "blazeandcave:technical/fail_dragon_vs": {
+    "criteria": {
+      "enter_water": "2022-07-14 02:31:16 -0300"
+    },
+    "done": true
+  },
+  "blazeandcave:challenges/all_the_items": {
+    "criteria": {
+      "wheat_seeds": "2022-07-14 02:54:04 -0300"
+    },
+    "done": false
+  },
+  "incendium:technical/using/trailblazer": {
+    "criteria": {
+      "log_spam_fixer": "2022-07-14 02:28:37 -0300"
+    },
+    "done": false
+  },
+  "blazeandcave:bacap/redstone_milestone": {
+    "criteria": {
+      "under_pressure": "2022-07-14 02:32:09 -0300",
+      "click": "2022-07-14 02:37:17 -0300"
+    },
+    "done": false
+  },
+  "blazeandcave:challenges/all_the_blocks": {
+    "criteria": {
+      "big_dripleaf": "2022-07-14 02:49:29 -0300",
+      "poppy": "2022-07-14 02:29:50 -0300",
+      "red_tulip": "2022-07-14 02:29:50 -0300"
+    },
+    "done": false
+  },
+  "vanillatweaks:cauldron_concrete": {
+    "criteria": {
+      "tick": "2022-07-14 02:27:41 -0300"
+    },
+    "done": true
+  },
+  "incendium:technical/scroll_of_returning": {
+    "criteria": {
+      "log_spam_fixer": "2022-07-14 02:28:37 -0300"
+    },
+    "done": false
+  },
+  "blazeandcave:redstone/under_pressure": {
+    "criteria": {
+      "oak_pressure_plate": "2022-07-14 02:32:09 -0300"
+    },
+    "done": true
+  },
+  "blazeandcave:bacap/root": {
+    "criteria": {
+      "location": "2022-07-14 02:28:37 -0300"
+    },
+    "done": true
+  },
+  "blazeandcave:bacap/building_milestone": {
+    "criteria": {
+      "ladder_climbers_inc": "2022-07-14 02:32:27 -0300"
+    },
+    "done": false
+  },
+  "vanillatweaks:chunk_loaders": {
+    "criteria": {
+      "tick": "2022-07-14 02:27:41 -0300"
+    },
+    "done": true
+  },
+  "blazeandcave:statistics/root": {
+    "criteria": {
+      "entered_nether_portal": "2022-07-14 02:43:00 -0300",
+      "diamond": "2022-07-14 02:43:00 -0300",
+      "entered_end_portal": "2022-07-14 02:43:00 -0300"
+    },
+    "done": true
+  },
+  "blazeandcave:biomes/one_with_the_forest": {
+    "criteria": {
+      "old_growth_birch_forest": "2022-07-14 02:45:51 -0300",
+      "forest": "2022-07-14 02:30:22 -0300",
+      "plains": "2022-07-14 02:28:37 -0300",
+      "birch_forest": "2022-07-14 02:46:12 -0300"
+    },
+    "done": false
+  },
+  "blazeandcave:biomes/overgrown": {
+    "criteria": {
+      "sparse_jungle": "2022-07-14 02:51:45 -0300",
+      "jungle": "2022-07-14 02:46:17 -0300"
+    },
+    "done": false
+  },
+  "minecraft:adventure/adventuring_time": {
+    "criteria": {
+      "mushroom_fields": "2022-07-14 02:28:37 -0300",
+      "warm_ocean": "2022-07-14 02:28:37 -0300",
+      "forest": "2022-07-14 02:30:22 -0300",
+      "birch_forest": "2022-07-14 02:45:51 -0300",
+      "dark_forest": "2022-07-14 02:28:37 -0300",
+      "plains": "2022-07-14 02:28:37 -0300",
+      "meadow": "2022-07-14 02:28:37 -0300",
+      "taiga": "2022-07-14 02:28:37 -0300",
+      "snowy_taiga": "2022-07-14 02:28:37 -0300",
+      "jungle": "2022-07-14 02:46:17 -0300",
+      "river": "2022-07-14 02:33:22 -0300",
+      "desert": "2022-07-14 02:28:37 -0300"
+    },
+    "done": false
+  },
+  "vanillatweaks:track_stats": {
+    "criteria": {
+      "tick": "2022-07-14 02:27:41 -0300"
+    },
+    "done": true
+  },
+  "incendium:technical/using/ragnarok": {
+    "criteria": {
+      "log_spam_fixer": "2022-07-14 02:28:37 -0300"
+    },
+    "done": false
+  },
+  "blazeandcave:mining/heart_of_darkness": {
+    "criteria": {
+      "enter_cave": "2022-07-14 02:48:24 -0300"
+    },
+    "done": true
+  },
+  "blazeandcave:biomes/flower_power": {
+    "criteria": {
+      "poppy": "2022-07-14 02:29:50 -0300",
+      "red_tulip": "2022-07-14 02:29:50 -0300"
+    },
+    "done": false
+  },
+  "minecraft:recipes/transportation/birch_boat": {
+    "criteria": {
+      "in_water": "2022-07-14 02:31:16 -0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/mangrove_boat": {
+    "criteria": {
+      "in_water": "2022-07-14 02:31:16 -0300"
+    },
+    "done": true
+  },
+  "blazeandcave:bacap/mining_milestone": {
+    "criteria": {
+      "leaflet_drop": "2022-07-14 02:49:30 -0300",
+      "heart_of_darkness": "2022-07-14 02:48:25 -0300"
+    },
+    "done": false
+  },
+  "incendium:technical/new_player": {
+    "criteria": {
+      "requirement": "2022-07-14 02:27:41 -0300"
+    },
+    "done": true
+  },
+  "blazeandcave:biomes/the_mighty_jungle": {
+    "criteria": {
+      "jungle": "2022-07-14 02:46:17 -0300"
+    },
+    "done": true
+  },
+  "blazeandcave:mining/leaflet_drop": {
+    "criteria": {
+      "big_dripleaf": "2022-07-14 02:49:29 -0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/red_dye_from_poppy": {
+    "criteria": {
+      "has_poppy": "2022-07-14 02:29:50 -0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/acacia_boat": {
+    "criteria": {
+      "in_water": "2022-07-14 02:31:16 -0300"
+    },
+    "done": true
+  },
+  "blazeandcave:bacap/statistics_milestone": {
+    "criteria": {
+      "the_first_night": "2022-07-14 02:43:00 -0300",
+      "root": "2022-07-14 02:43:00 -0300"
+    },
+    "done": false
+  },
+  "vanillatweaks:name_colors": {
+    "criteria": {
+      "tick": "2022-07-14 02:27:41 -0300"
+    },
+    "done": true
+  },
+  "blazeandcave:statistics/the_first_night": {
+    "criteria": {
+      "trigger": "2022-07-14 02:43:00 -0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/red_dye_from_tulip": {
+    "criteria": {
+      "has_red_flower": "2022-07-14 02:29:50 -0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/jungle_boat": {
+    "criteria": {
+      "in_water": "2022-07-14 02:31:16 -0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/spruce_boat": {
+    "criteria": {
+      "in_water": "2022-07-14 02:31:16 -0300"
+    },
+    "done": true
+  },
+  "blazeandcave:bacap/advancement_legend": {
+    "criteria": {
+      "click": "2022-07-14 02:37:17 -0300",
+      "leaflet_drop": "2022-07-14 02:49:30 -0300",
+      "tarzan": "2022-07-14 02:30:43 -0300",
+      "statistics_root": "2022-07-14 02:43:00 -0300",
+      "ladder_climbers_inc": "2022-07-14 02:32:27 -0300",
+      "for_you_my_sweet": "2022-07-14 02:29:50 -0300",
+      "heart_of_darkness": "2022-07-14 02:48:25 -0300",
+      "the_first_night": "2022-07-14 02:43:00 -0300",
+      "just_keep_swimming": "2022-07-14 02:31:16 -0300",
+      "bacap_root": "2022-07-14 02:28:38 -0300",
+      "the_mighty_jungle": "2022-07-14 02:46:18 -0300",
+      "under_pressure": "2022-07-14 02:32:09 -0300"
+    },
+    "done": false
+  },
+  "minecraft:recipes/transportation/dark_oak_boat": {
+    "criteria": {
+      "in_water": "2022-07-14 02:31:16 -0300"
+    },
+    "done": true
+  },
+  "blazeandcave:bacap/biomes_milestone": {
+    "criteria": {
+      "the_mighty_jungle": "2022-07-14 02:46:18 -0300",
+      "tarzan": "2022-07-14 02:30:43 -0300",
+      "just_keep_swimming": "2022-07-14 02:31:16 -0300",
+      "for_you_my_sweet": "2022-07-14 02:29:50 -0300"
+    },
+    "done": false
+  },
+  "blazeandcave:building/ladder_climbers_inc": {
+    "criteria": {
+      "enter_ladder": "2022-07-14 02:32:27 -0300"
+    },
+    "done": true
+  },
+  "blazeandcave:redstone/click": {
+    "criteria": {
+      "oak_button": "2022-07-14 02:37:17 -0300"
+    },
+    "done": true
+  },
+  "vanillatweaks:double_shulker_shells": {
+    "criteria": {
+      "tick": "2022-07-14 02:27:41 -0300"
+    },
+    "done": true
+  },
+  "blazeandcave:biomes/for_you_my_sweet": {
+    "criteria": {
+      "red_tulip": "2022-07-14 02:29:50 -0300"
+    },
+    "done": true
+  },
+  "vanillatweaks:player_head_drops": {
+    "criteria": {
+      "tick": "2022-07-14 02:27:41 -0300"
+    },
+    "done": true
+  },
+  "blazeandcave:biomes/wet_feet": {
+    "criteria": {
+      "river": "2022-07-14 02:33:22 -0300"
+    },
+    "done": false
+  },
+  "blazeandcave:biomes/tarzan": {
+    "criteria": {
+      "enter_vine": "2022-07-14 02:30:43 -0300"
+    },
+    "done": true
+  },
+  "blazeandcave:enchanting/complete_enchanter": {
+    "criteria": {
+      "unbreaking": "2022-07-14 02:29:50 -0300"
+    },
+    "done": false
+  },
+  "vanillatweaks:root": {
+    "criteria": {
+      "tick": "2022-07-14 02:27:41 -0300"
+    },
+    "done": true
+  },
+  "vanillatweaks:armored_elytra": {
+    "criteria": {
+      "tick": "2022-07-14 02:27:41 -0300"
+    },
+    "done": true
+  },
+  "blazeandcave:potion/a_much_more_doable_challenge": {
+    "criteria": {
+      "regeneration": "2022-07-14 02:31:17 -0300",
+      "haste": "2022-07-14 02:27:41 -0300",
+      "wither": "2022-07-14 02:44:21 -0300"
+    },
+    "done": false
+  },
+  "minecraft:recipes/transportation/oak_boat": {
+    "criteria": {
+      "in_water": "2022-07-14 02:31:16 -0300"
+    },
+    "done": true
+  },
+  "vanillatweaks:track_raw_stats": {
+    "criteria": {
+      "tick": "2022-07-14 02:27:41 -0300"
+    },
+    "done": true
+  },
+  "incendium:technical/using/shield": {
+    "criteria": {
+      "log_spam_fixer": "2022-07-14 02:28:37 -0300"
+    },
+    "done": false
+  },
+  "blazeandcave:mining/spelunker": {
+    "criteria": {
+      "dripstone_caves": "2022-07-14 02:46:57 -0300"
+    },
+    "done": false
+  },
+  "repurposed_structures:root": {
+    "criteria": {
+      "always": "2022-07-14 02:27:41 -0300"
+    },
+    "done": true
+  },
+  "blazeandcave:biomes/just_keep_swimming": {
+    "criteria": {
+      "enter_water": "2022-07-14 02:31:16 -0300"
+    },
+    "done": true
+  },
+  "DataVersion": 3105
+}
