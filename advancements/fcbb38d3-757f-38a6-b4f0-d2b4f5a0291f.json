@@ -1,0 +1,435 @@
+{
+  "blazeandcave:challenges/explorer_of_worlds": {
+    "criteria": {
+      "forest": "2022-10-11 13:55:47 -0300",
+      "sparse_jungle": "2022-10-11 14:06:19 -0300",
+      "birch_forest": "2022-10-11 14:09:09 -0300",
+      "plains": "2022-10-11 13:46:35 -0300",
+      "meadow": "2022-10-11 14:04:40 -0300",
+      "swamp": "2022-10-11 14:02:53 -0300",
+      "old_growth_birch_forest": "2022-10-11 14:06:15 -0300",
+      "river": "2022-10-11 13:57:50 -0300"
+    },
+    "done": false
+  },
+  "blazeandcave:technical/fail_dragon_vs": {
+    "criteria": {
+      "enter_water": "2022-10-11 13:57:50 -0300"
+    },
+    "done": true
+  },
+  "incendium:technical/on_block": {
+    "criteria": {
+      "log_spam_fixer": "2022-10-11 14:09:31 -0300"
+    },
+    "done": false
+  },
+  "incendium:technical/using/trailblazer": {
+    "criteria": {
+      "log_spam_fixer": "2022-10-11 13:46:35 -0300"
+    },
+    "done": false
+  },
+  "blazeandcave:bacap/redstone_milestone": {
+    "criteria": {
+      "under_pressure": "2022-10-11 13:55:39 -0300"
+    },
+    "done": false
+  },
+  "blazeandcave:challenges/all_the_blocks": {
+    "criteria": {
+      "moss_block": "2022-10-15 21:11:52 -0300"
+    },
+    "done": false
+  },
+  "vanillatweaks:cauldron_concrete": {
+    "criteria": {
+      "tick": "2022-10-10 22:38:42 -0300"
+    },
+    "done": true
+  },
+  "incendium:technical/scroll_of_returning": {
+    "criteria": {
+      "log_spam_fixer": "2022-10-11 13:46:35 -0300"
+    },
+    "done": false
+  },
+  "blazeandcave:redstone/under_pressure": {
+    "criteria": {
+      "oak_pressure_plate": "2022-10-11 13:55:39 -0300"
+    },
+    "done": true
+  },
+  "incendium:technical/multiplex_crossbow": {
+    "criteria": {
+      "log_spam_fixer": "2022-10-11 14:09:31 -0300"
+    },
+    "done": false
+  },
+  "blazeandcave:bacap/root": {
+    "criteria": {
+      "location": "2022-10-11 13:46:35 -0300"
+    },
+    "done": true
+  },
+  "incendium:technical/firestorm": {
+    "criteria": {
+      "log_spam_fixer": "2022-10-11 14:09:31 -0300"
+    },
+    "done": false
+  },
+  "vanillatweaks:chunk_loaders": {
+    "criteria": {
+      "tick": "2022-10-10 22:38:42 -0300"
+    },
+    "done": true
+  },
+  "blazeandcave:statistics/root": {
+    "criteria": {
+      "entered_nether_portal": "2022-10-11 13:50:40 -0300",
+      "diamond": "2022-10-11 13:50:40 -0300",
+      "entered_end_portal": "2022-10-11 13:50:40 -0300"
+    },
+    "done": true
+  },
+  "blazeandcave:biomes/one_with_the_forest": {
+    "criteria": {
+      "old_growth_birch_forest": "2022-10-11 14:06:15 -0300",
+      "forest": "2022-10-11 13:55:47 -0300",
+      "plains": "2022-10-11 13:46:35 -0300",
+      "birch_forest": "2022-10-11 14:09:09 -0300"
+    },
+    "done": false
+  },
+  "blazeandcave:biomes/overgrown": {
+    "criteria": {
+      "sparse_jungle": "2022-10-11 14:06:19 -0300",
+      "swamp": "2022-10-11 14:02:53 -0300"
+    },
+    "done": false
+  },
+  "minecraft:adventure/adventuring_time": {
+    "criteria": {
+      "mushroom_fields": "2022-10-11 13:46:35 -0300",
+      "warm_ocean": "2022-10-11 13:46:35 -0300",
+      "forest": "2022-10-11 13:55:47 -0300",
+      "birch_forest": "2022-10-11 14:06:15 -0300",
+      "dark_forest": "2022-10-11 13:46:35 -0300",
+      "plains": "2022-10-11 13:46:35 -0300",
+      "meadow": "2022-10-11 13:46:35 -0300",
+      "taiga": "2022-10-11 13:46:35 -0300",
+      "snowy_taiga": "2022-10-11 13:46:35 -0300",
+      "swamp": "2022-10-11 14:02:53 -0300",
+      "jungle": "2022-10-11 14:06:19 -0300",
+      "river": "2022-10-11 13:57:50 -0300",
+      "desert": "2022-10-11 13:46:35 -0300"
+    },
+    "done": false
+  },
+  "vanillatweaks:track_stats": {
+    "criteria": {
+      "tick": "2022-10-10 22:38:42 -0300"
+    },
+    "done": true
+  },
+  "blazeandcave:adventure/do_you_want_to_trade": {
+    "criteria": {
+      "village": "2022-10-11 14:03:19 -0300"
+    },
+    "done": true
+  },
+  "blazeandcave:biomes/root": {
+    "criteria": {
+      "killed_by_something": "2022-10-11 14:05:02 -0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/moss_carpet": {
+    "criteria": {
+      "has_moss_block": "2022-10-15 21:11:52 -0300"
+    },
+    "done": true
+  },
+  "incendium:technical/using/ragnarok": {
+    "criteria": {
+      "log_spam_fixer": "2022-10-11 13:46:35 -0300"
+    },
+    "done": false
+  },
+  "minecraft:recipes/transportation/birch_boat": {
+    "criteria": {
+      "in_water": "2022-10-11 13:57:50 -0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/mangrove_boat": {
+    "criteria": {
+      "in_water": "2022-10-11 13:57:50 -0300"
+    },
+    "done": true
+  },
+  "incendium:technical/inventory/sentrys_wrath": {
+    "criteria": {
+      "log_spam_fixer": "2022-10-11 14:09:31 -0300"
+    },
+    "done": false
+  },
+  "incendium:technical/new_player": {
+    "criteria": {
+      "requirement": "2022-10-10 22:38:42 -0300"
+    },
+    "done": true
+  },
+  "blazeandcave:biomes/the_mighty_jungle": {
+    "criteria": {
+      "jungle": "2022-10-11 14:06:19 -0300"
+    },
+    "done": true
+  },
+  "blazeandcave:bacap/statistics_milestone": {
+    "criteria": {
+      "the_first_night": "2022-10-11 13:50:41 -0300",
+      "root": "2022-10-11 13:50:41 -0300"
+    },
+    "done": false
+  },
+  "minecraft:recipes/transportation/acacia_boat": {
+    "criteria": {
+      "in_water": "2022-10-11 13:57:50 -0300"
+    },
+    "done": true
+  },
+  "vanillatweaks:name_colors": {
+    "criteria": {
+      "tick": "2022-10-10 22:38:42 -0300"
+    },
+    "done": true
+  },
+  "incendium:technical/holy_wrath": {
+    "criteria": {
+      "log_spam_fixer": "2022-10-11 14:09:31 -0300"
+    },
+    "done": false
+  },
+  "incendium:technical/inventory/firestorm": {
+    "criteria": {
+      "log_spam_fixer": "2022-10-11 14:09:31 -0300"
+    },
+    "done": false
+  },
+  "minecraft:recipes/building_blocks/mossy_cobblestone_from_moss_block": {
+    "criteria": {
+      "has_moss_block": "2022-10-15 21:11:52 -0300"
+    },
+    "done": true
+  },
+  "minecraft:adventure/root": {
+    "criteria": {
+      "killed_by_something": "2022-10-11 14:05:02 -0300"
+    },
+    "done": true
+  },
+  "blazeandcave:statistics/the_first_night": {
+    "criteria": {
+      "trigger": "2022-10-11 13:50:40 -0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/jungle_boat": {
+    "criteria": {
+      "in_water": "2022-10-11 13:57:50 -0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/spruce_boat": {
+    "criteria": {
+      "in_water": "2022-10-11 13:57:50 -0300"
+    },
+    "done": true
+  },
+  "blazeandcave:animal/stay_calmer": {
+    "criteria": {
+      "tamed_animal": "2022-10-11 14:09:04 -0300"
+    },
+    "done": true
+  },
+  "blazeandcave:adventure/raidin_master": {
+    "criteria": {
+      "village_plains": "2022-10-11 14:03:19 -0300"
+    },
+    "done": false
+  },
+  "incendium:technical/on_kill": {
+    "criteria": {
+      "log_spam_fixer": "2022-10-11 14:09:31 -0300"
+    },
+    "done": false
+  },
+  "blazeandcave:bacap/advancement_legend": {
+    "criteria": {
+      "stay_calmer": "2022-10-11 14:09:04 -0300",
+      "do_you_want_to_trade": "2022-10-11 14:03:20 -0300",
+      "tarzan": "2022-10-11 14:03:04 -0300",
+      "statistics_root": "2022-10-11 13:50:41 -0300",
+      "the_first_night": "2022-10-11 13:50:41 -0300",
+      "just_keep_swimming": "2022-10-11 13:57:50 -0300",
+      "biomes_root": "2022-10-11 14:05:03 -0300",
+      "bacap_root": "2022-10-11 13:46:36 -0300",
+      "the_mighty_jungle": "2022-10-11 14:06:20 -0300",
+      "under_pressure": "2022-10-11 13:55:39 -0300",
+      "adventure_root": "2022-10-11 14:05:03 -0300"
+    },
+    "done": false
+  },
+  "minecraft:recipes/transportation/dark_oak_boat": {
+    "criteria": {
+      "in_water": "2022-10-11 13:57:50 -0300"
+    },
+    "done": true
+  },
+  "blazeandcave:biomes/high_feet": {
+    "criteria": {
+      "meadow": "2022-10-11 14:04:40 -0300"
+    },
+    "done": false
+  },
+  "blazeandcave:animal/llama_llama_duck_king": {
+    "criteria": {
+      "creamy": "2022-10-11 14:09:04 -0300"
+    },
+    "done": false
+  },
+  "blazeandcave:bacap/biomes_milestone": {
+    "criteria": {
+      "the_mighty_jungle": "2022-10-11 14:06:20 -0300",
+      "tarzan": "2022-10-11 14:03:04 -0300",
+      "just_keep_swimming": "2022-10-11 13:57:50 -0300",
+      "root": "2022-10-11 14:05:03 -0300"
+    },
+    "done": false
+  },
+  "incendium:technical/on_player_hurt": {
+    "criteria": {
+      "log_spam_fixer": "2022-10-11 14:09:31 -0300"
+    },
+    "done": false
+  },
+  "vanillatweaks:double_shulker_shells": {
+    "criteria": {
+      "tick": "2022-10-10 22:38:42 -0300"
+    },
+    "done": true
+  },
+  "incendium:technical/sentrys_wrath": {
+    "criteria": {
+      "log_spam_fixer": "2022-10-11 14:09:31 -0300"
+    },
+    "done": false
+  },
+  "blazeandcave:bacap/animal_milestone": {
+    "criteria": {
+      "stay_calmer": "2022-10-11 14:09:04 -0300"
+    },
+    "done": false
+  },
+  "vanillatweaks:player_head_drops": {
+    "criteria": {
+      "tick": "2022-10-10 22:38:42 -0300"
+    },
+    "done": true
+  },
+  "blazeandcave:biomes/wet_feet": {
+    "criteria": {
+      "river": "2022-10-11 13:57:50 -0300"
+    },
+    "done": false
+  },
+  "blazeandcave:biomes/tarzan": {
+    "criteria": {
+      "enter_vine": "2022-10-11 14:03:03 -0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/mossy_stone_bricks_from_moss_block": {
+    "criteria": {
+      "has_moss_block": "2022-10-15 21:11:52 -0300"
+    },
+    "done": true
+  },
+  "vanillatweaks:root": {
+    "criteria": {
+      "tick": "2022-10-10 22:38:42 -0300"
+    },
+    "done": true
+  },
+  "blazeandcave:challenges/death_from_all": {
+    "criteria": {
+      "zombie_villager": "2022-10-11 14:05:02 -0300"
+    },
+    "done": false
+  },
+  "incendium:technical/feed_ghastling": {
+    "criteria": {
+      "log_spam_fixer": "2022-10-11 14:09:31 -0300"
+    },
+    "done": false
+  },
+  "vanillatweaks:armored_elytra": {
+    "criteria": {
+      "tick": "2022-10-10 22:38:42 -0300"
+    },
+    "done": true
+  },
+  "blazeandcave:potion/a_much_more_doable_challenge": {
+    "criteria": {
+      "regeneration": "2022-10-11 13:57:51 -0300",
+      "haste": "2022-10-11 13:53:39 -0300",
+      "wither": "2022-10-11 13:57:42 -0300"
+    },
+    "done": false
+  },
+  "minecraft:recipes/transportation/oak_boat": {
+    "criteria": {
+      "in_water": "2022-10-11 13:57:50 -0300"
+    },
+    "done": true
+  },
+  "vanillatweaks:track_raw_stats": {
+    "criteria": {
+      "tick": "2022-10-10 22:38:42 -0300"
+    },
+    "done": true
+  },
+  "incendium:technical/using/shield": {
+    "criteria": {
+      "log_spam_fixer": "2022-10-11 13:46:35 -0300"
+    },
+    "done": false
+  },
+  "blazeandcave:bacap/adventure_milestone": {
+    "criteria": {
+      "do_you_want_to_trade": "2022-10-11 14:03:20 -0300",
+      "root": "2022-10-11 14:05:03 -0300"
+    },
+    "done": false
+  },
+  "incendium:technical/on_inventory_change": {
+    "criteria": {
+      "log_spam_fixer": "2022-10-11 14:09:31 -0300"
+    },
+    "done": false
+  },
+  "repurposed_structures:root": {
+    "criteria": {
+      "always": "2022-10-10 22:38:42 -0300"
+    },
+    "done": true
+  },
+  "blazeandcave:biomes/just_keep_swimming": {
+    "criteria": {
+      "enter_water": "2022-10-11 13:57:50 -0300"
+    },
+    "done": true
+  },
+  "DataVersion": 3105
+}
